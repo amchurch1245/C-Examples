@@ -1,0 +1,3 @@
+Geometry Calculator
+Purpose: To use user input to determine shape, and area of 
+each shape.

@@ -1,0 +1,4 @@
+Sound Wave Calculator
+Purpose: To use user input to determine the time it takes a sound wave
+to travel a certain distance, depending on if the medium is air, water,
+or steel.
